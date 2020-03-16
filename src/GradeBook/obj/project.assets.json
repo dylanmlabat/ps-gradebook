@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dylanmichaellabat/Development/code/gradebook/src/GradeBook/GradeBook.csproj",
+      "projectUniqueName": "/Users/dylanmichaellabat/Development/code/ps-gradebook/src/GradeBook/GradeBook.csproj",
       "projectName": "GradeBook",
-      "projectPath": "/Users/dylanmichaellabat/Development/code/gradebook/src/GradeBook/GradeBook.csproj",
+      "projectPath": "/Users/dylanmichaellabat/Development/code/ps-gradebook/src/GradeBook/GradeBook.csproj",
       "packagesPath": "/Users/dylanmichaellabat/.nuget/packages/",
-      "outputPath": "/Users/dylanmichaellabat/Development/code/gradebook/src/GradeBook/obj/",
+      "outputPath": "/Users/dylanmichaellabat/Development/code/ps-gradebook/src/GradeBook/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dylanmichaellabat/.nuget/NuGet/NuGet.Config"
