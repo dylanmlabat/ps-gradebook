@@ -13,6 +13,7 @@ namespace GradeBook
         }
         public double High;
         public double Low;
+
         public char Letter
         {
             get
@@ -33,10 +34,10 @@ namespace GradeBook
 
                     default:
                         return 'F';
-
                 }
             }
         }
+
         public double Sum;
         public int Count;
 

@@ -3,13 +3,13 @@ using System.Collections.Generic;
 
 namespace GradeBook
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args)
         {
             IBook book = new DiskBook("Dylan's Grade Book");
             book.GradeAdded += OnGradeAdded;
-            
+
             EnterGrades(book);
 
             var stats = book.GetStatistics();
